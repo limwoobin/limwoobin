@@ -4,9 +4,9 @@
 <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
 
 ## :rocket: __Activity__
-- [컬리 기술 블로그 기고 - Spring Redisson Distributed Lock](https://helloworld.kurly.com/blog/distributed-redisson-lock)
-- [우아한테크캠프pro 5기 리뷰어(2022.10 ~ 2022.12)](https://devoong2.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BA%A0%ED%94%84PRO-5%EA%B8%B0-%EB%A6%AC%EB%B7%B0%EC%96%B4-%ED%9A%8C%EA%B3%A0)
-- [우아한테크캠프pro 4기 수료(2022.05 ~ 2022.07)](https://edu.nextstep.camp/c/lqsBs7x0/)
+<!-- - [컬리 기술 블로그 기고 - Spring Redisson Distributed Lock](https://helloworld.kurly.com/blog/distributed-redisson-lock) -->
+<!-- - [우아한테크캠프pro 5기 리뷰어(2022.10 ~ 2022.12)](https://devoong2.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BA%A0%ED%94%84PRO-5%EA%B8%B0-%EB%A6%AC%EB%B7%B0%EC%96%B4-%ED%9A%8C%EA%B3%A0) -->
+<!-- - [우아한테크캠프pro 4기 수료(2022.05 ~ 2022.07)](https://edu.nextstep.camp/c/lqsBs7x0/) -->
 
 ### ㅋㅋㅋㅋㅋ.. 👋
 
